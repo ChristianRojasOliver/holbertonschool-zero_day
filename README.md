@@ -1,1 +1,1 @@
-This is my first day  currently on my first proyect. 
+I'm now a Holberton Student, this is my first repository as a full-stack engineer
